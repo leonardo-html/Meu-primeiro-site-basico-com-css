@@ -1,0 +1,17 @@
+#titulo, .texto {
+
+    color: purple;
+    font-size: 25px;
+}
+
+
+.imgbolo {
+
+    width: 260px;
+}
+
+.textomd {
+
+    font-weight: bold;
+    color: red;
+}
